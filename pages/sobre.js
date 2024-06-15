@@ -4,7 +4,7 @@ function Sobre(params) {
     return (
         <div>
             <h1>Sobre</h1>
-            <Link href="/">
+            <Link href="/" legacyBehavior>
                 <a>Acessar página Home</a>
             </Link>
         </div>
